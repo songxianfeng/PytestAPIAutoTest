@@ -1,0 +1,64 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestCases",
+    "children" : [ {
+      "name" : "Login",
+      "children" : [ {
+        "name" : "test_LoginFail",
+        "children" : [ {
+          "name" : "test_LoginApi",
+          "uid" : "a688f49e9b57d70f",
+          "parentUid" : "3d77041b7bb9f289452d36c367f3f825",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598089591307,
+            "stop" : 1598089592448,
+            "duration" : 1141
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3d77041b7bb9f289452d36c367f3f825"
+      }, {
+        "name" : "test_LoginSucess",
+        "children" : [ {
+          "name" : "test_LoginApi",
+          "uid" : "8b876a006000d6d3",
+          "parentUid" : "a91c1c862921bc5b2aaee9196d07d476",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598089592471,
+            "stop" : 1598089593533,
+            "duration" : 1062
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a91c1c862921bc5b2aaee9196d07d476"
+      } ],
+      "uid" : "00caae96ab246cae3609cb7d2fa5e436"
+    }, {
+      "name" : "users.test_UserNormal",
+      "children" : [ {
+        "name" : "test_GetUsers",
+        "uid" : "6ada7419d6b38b33",
+        "parentUid" : "e0e3a9f6a6cb4c44f910199d9d3a3a92",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598089593553,
+          "stop" : 1598089594336,
+          "duration" : 783
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "users.test_UserNormal"
+    } ],
+    "uid" : "1dd5dae00c58193b69825e57e00d160e"
+  } ]
+}

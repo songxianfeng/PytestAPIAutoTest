@@ -1,0 +1,10 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Aug 22 17:46:32 CST 2020","Sat Aug 22 17:46:33 CST 2020","1062","TestCases.Login","test_LoginSucess","TestLoginApi","","","test_LoginApi","
+        使用pytest请求login接口
+        "
+"passed","Sat Aug 22 17:46:33 CST 2020","Sat Aug 22 17:46:34 CST 2020","783","TestCases.users","test_UserNormal","TestUserApi","","","test_GetUsers","
+        使用pytest请求user接口
+        "
+"passed","Sat Aug 22 17:46:31 CST 2020","Sat Aug 22 17:46:32 CST 2020","1141","TestCases.Login","test_LoginFail","TestLoginApiFail","","","test_LoginApi","
+        使用pytest请求login接口
+        "

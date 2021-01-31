@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testdata>
+     <userdata>
+         <apiurl>https://reqres.in/api/users</apiurl>
+         <method>GET</method>
+         <param1>page</param1>
+         <value>1</value>
+       </userdata>
+    </testdata>
+    

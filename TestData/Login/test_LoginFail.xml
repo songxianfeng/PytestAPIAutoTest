@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testdata>
+     <logindata name="登录接口，错误的用户名和密码">
+         <apiurl>https://reqres.in/api/login</apiurl>
+         <method>POST</method>
+         <param1>email</param1>
+         <value1>lionking0318@163.com</value1>
+         <param2>password</param2>
+         <value2>adfwefaf</value2>
+       </logindata>
+ </testdata>
